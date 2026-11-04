@@ -64,7 +64,7 @@ FADE = [(0, 1.0), (180, 1.0), (200, .979), (250, .959), (300, .938), (350, .904)
         (700, .5), (750, .432), (800, .363), (850, .295), (900, .233), (950, .178),
         (1000, .137), (1050, .096), (1100, .062), (1150, .041), (1173, .028)]
 
-TITLE = dict(size=75, pitch=105, maxw=560)
+TITLE = dict(size=75, pitch=105, maxw=900)  # širší (user 2026-11-04: úzký titulek „hnusný“, ať to není tak pod sebou)
 BODY = dict(size=41, pitch=58.5, maxw=830)
 CTA = dict(size=75, pitch=105, maxw=860)  # CTA vždy velké jako titulek (user 2026-11-03)
 SINGLE = set("kKsSvVzZaAiIoOuU")  # jednopísmenné předložky/spojky nesmí končit řádek
@@ -204,7 +204,7 @@ def main(cfg_path, out):
         img = background(photos[pmap[i]], focus)
         if i == 0:
             s = TITLE; f = ImageFont.truetype(BOLD, s["size"])
-            lines = wrap(text, f, s["maxw"])
+            lines = balance(text, f, s["maxw"])  # vyrovnané řádky
             draw_lines(img, lines, f, s["pitch"], bottom_y=1003, shadow=True)
             chevrons(img)
         elif i == n - 1:
