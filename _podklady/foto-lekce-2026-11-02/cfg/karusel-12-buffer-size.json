@@ -1,0 +1,61 @@
+{
+ "paras": [
+  "Vždycky máš nějakou latenci.",
+  "S mojí osobní zvukovkou mám zpoždění 5,5 milisekund, což neslyšíš. Podle mě slyšíš rozdíl nějakých 10 milisekund a výš.",
+  "Ty můžeš zpoždění (latency) snižovat tím, že si snížíš Buffer Size.",
+  "Když míchám, nebo jsem ve studiu, nebo nepotřebuji přesnou odezvu, tak dávám vyšší samples.",
+  "To znamená, že máš vyšší latenci, ale tvůj počítač stíhá zpracovávat víc audiodat. Máš jistotu, že nedojde k nějakýmu digitálnímu zadrhávání, když třeba používáš hodně efektů.",
+  "Ale když nahráváš nebo hraješ s Abletonem živě, tak ti doporučuji najít si ten nejnižší možný Buffer Size. Obecně na live: čím nižší samples, tím nižší latence. Třeba když si nastavím 64 samples, tak už většinou slyším hodně digitálního trhání.",
+  "Dej mi follow, pokud skládáš svoji hudbu."
+ ],
+ "photos": [
+  "snimky/karusel-12-buffer-size/1.png",
+  "snimky/karusel-12-buffer-size/2.png",
+  "snimky/karusel-12-buffer-size/3.png",
+  "snimky/karusel-12-buffer-size/4.png",
+  "snimky/karusel-12-buffer-size/5.png",
+  "snimky/karusel-12-buffer-size/6.png",
+  "snimky/karusel-12-buffer-size/7.png"
+ ],
+ "focus": [
+  0.5,
+  0.5
+ ],
+ "snimky_k_vytazeni": [
+  {
+   "slide": 1,
+   "cas": "09:39-10:00",
+   "co_ma_byt_videt": "Preferences > Audio, latence"
+  },
+  {
+   "slide": 2,
+   "cas": "09:51-10:15",
+   "co_ma_byt_videt": "hodnota latence v ms v Preferences"
+  },
+  {
+   "slide": 3,
+   "cas": "10:13-10:41",
+   "co_ma_byt_videt": "rozbalovací Buffer Size"
+  },
+  {
+   "slide": 4,
+   "cas": "10:13-10:41",
+   "co_ma_byt_videt": "Buffer Size s vyšší hodnotou, jiný snímek než předtím"
+  },
+  {
+   "slide": 5,
+   "cas": "10:41-11:10",
+   "co_ma_byt_videt": "Preferences nebo set s efekty / CPU"
+  },
+  {
+   "slide": 6,
+   "cas": "10:50-11:26",
+   "co_ma_byt_videt": "Buffer Size nízká hodnota"
+  },
+  {
+   "slide": 7,
+   "cas": "09:39-11:26",
+   "co_ma_byt_videt": "nejhezčí snímek Preferences"
+  }
+ ]
+}

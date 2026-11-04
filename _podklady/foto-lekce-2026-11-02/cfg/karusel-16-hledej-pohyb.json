@@ -1,0 +1,54 @@
+{
+ "paras": [
+  "Všude hledej pohyby.",
+  "Ve své hudbě neustále hledáš nějaký vývoj, nějakej neustálej pohyb.",
+  "Pohyb hledáš na mikro-úrovni, třeba v rámci obálky, LFO, nebo automatizace v rámci dob. Potom hledáš vývoj ve větších a větších plochách (takty).",
+  "Nakonec hledáš vývoj/gradaci na makro-úrovni - v rámci částí (sloka, refrén) a v rámci celého taktu.",
+  "Pokud na to myslíš na každém kroku tvé produkce, tvoje hudba najednou bude živější, pohyblivější, zábavnější.",
+  "Pokud máš zájem o můj koučink, napiš mi „HUDBA“."
+ ],
+ "photos": [
+  "snimky/karusel-16-hledej-pohyb/1.png",
+  "snimky/karusel-16-hledej-pohyb/2.png",
+  "snimky/karusel-16-hledej-pohyb/3.png",
+  "snimky/karusel-16-hledej-pohyb/4.png",
+  "snimky/karusel-16-hledej-pohyb/5.png",
+  "snimky/karusel-16-hledej-pohyb/6.png"
+ ],
+ "focus": [
+  0.5,
+  0.5
+ ],
+ "snimky_k_vytazeni": [
+  {
+   "slide": 1,
+   "cas": "50:34-51:39",
+   "co_ma_byt_videt": "automatizace v arrangementu"
+  },
+  {
+   "slide": 2,
+   "cas": "50:34-50:45",
+   "co_ma_byt_videt": "stopy / automatizace"
+  },
+  {
+   "slide": 3,
+   "cas": "48:00-50:45",
+   "co_ma_byt_videt": "obálka / LFO syntezátoru"
+  },
+  {
+   "slide": 4,
+   "cas": "50:45-51:39",
+   "co_ma_byt_videt": "arrangement s částmi"
+  },
+  {
+   "slide": 5,
+   "cas": "51:00-52:00",
+   "co_ma_byt_videt": "automatizační křivka"
+  },
+  {
+   "slide": 6,
+   "cas": "50:34-52:00",
+   "co_ma_byt_videt": "nejhezčí snímek automatizace"
+  }
+ ]
+}

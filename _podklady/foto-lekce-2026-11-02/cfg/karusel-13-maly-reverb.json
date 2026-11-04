@@ -1,0 +1,54 @@
+{
+ "paras": [
+  "Krátký reverby fungují hlavně podvědomě.",
+  "Decay udává, jak dlouho trvá, než po dozvuku znovu slyšíme ticho. Můžeme mít jenom kratičký decay, který trvá pár set milisekund.",
+  "Když tam je, tak ho nikdy v životě neuslyšíš. Ale v momentě, když ho vypneš, tak najednou uslyšíš ten prázdnej prostor.",
+  "Je to obzvlášť důležité u elektroniky, která je ve svý čistý podobě strašně mrtvá, strašně chladná.",
+  "Reverb není nic jinýho než jenom simulace prostoru. V našem fyzickém světě nic neslyšíme na sucho. I to nejvíc odhlučený studio má vždycky nějaký dozvuk.",
+  "Dej mi follow, pokud skládáš svoji hudbu."
+ ],
+ "photos": [
+  "snimky/karusel-13-maly-reverb/1.png",
+  "snimky/karusel-13-maly-reverb/2.png",
+  "snimky/karusel-13-maly-reverb/3.png",
+  "snimky/karusel-13-maly-reverb/4.png",
+  "snimky/karusel-13-maly-reverb/5.png",
+  "snimky/karusel-13-maly-reverb/6.png"
+ ],
+ "focus": [
+  0.5,
+  0.5
+ ],
+ "snimky_k_vytazeni": [
+  {
+   "slide": 1,
+   "cas": "42:15-45:00",
+   "co_ma_byt_videt": "reverb device celý"
+  },
+  {
+   "slide": 2,
+   "cas": "42:33-43:41",
+   "co_ma_byt_videt": "parametr Decay detail"
+  },
+  {
+   "slide": 3,
+   "cas": "44:05-44:30",
+   "co_ma_byt_videt": "reverb zapnutý/vypnutý (tlačítko on/off)"
+  },
+  {
+   "slide": 4,
+   "cas": "44:30-44:55",
+   "co_ma_byt_videt": "stopa / syntezátor s reverbem"
+  },
+  {
+   "slide": 5,
+   "cas": "44:32-45:00",
+   "co_ma_byt_videt": "reverb, jiný výřez"
+  },
+  {
+   "slide": 6,
+   "cas": "42:15-45:00",
+   "co_ma_byt_videt": "nejhezčí snímek reverbu"
+  }
+ ]
+}

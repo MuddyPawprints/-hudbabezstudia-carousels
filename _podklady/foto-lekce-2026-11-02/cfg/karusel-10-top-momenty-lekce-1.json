@@ -1,0 +1,61 @@
+{
+ "paras": [
+  "5 top momentů z lekce s klientem",
+  "1. Můžeš mít jenom nějaký malinký reverb, který má decay třeba 1000ms. Takhle malý reverby dost často fungují podvědomě, nikdy v životě je neslyšíš. Ale v momentě, když je vypneš, tak najednou uslyšíš ten prázdnej prostor.",
+  "2. Když míchám nebo nepotřebuju přesnou odezvu, tak dávám vyšší Buffer Size. Ale když nahráváš neboděláš něco live, tak ti doporučuji najít si ten nejnižší možný Buffer Size. Čím nižší samples, tím nižší latence.",
+  "3. Musíš přemýšlet tak, že jsi sochař. Stavíš zvuky na sebe. Jedna věc musí logicky vést k tý další. Není to tak, že náhodně vybereš deset různých zvuků a teď se modlíš, že to bude znít dohromady dobře.",
+  "4. Echo je saturátor. Když najdeš přes filter sweet spot toho správného feedbacku, tak máš krásnou barvu.",
+  "5. Chceš věcem dávat nějaký vývoj, neustálý pohyb. Jednak na mikro-úrovni, třeba v rámci jednoho tónu, a potom na makro-úrovni, že dáš třeba automatizaci přes více taktů. Hledáš vývoj v rámci celého tracku: když jedna sloka zní po druhý, chceš trochu jiný odstín. Po třetí zase jinej.",
+  "Pokud máš zájem o můj koučink, napiš mi „HUDBA“."
+ ],
+ "photos": [
+  "snimky/karusel-10-top-momenty-lekce-1/1.png",
+  "snimky/karusel-10-top-momenty-lekce-1/2.png",
+  "snimky/karusel-10-top-momenty-lekce-1/3.png",
+  "snimky/karusel-10-top-momenty-lekce-1/4.png",
+  "snimky/karusel-10-top-momenty-lekce-1/5.png",
+  "snimky/karusel-10-top-momenty-lekce-1/6.png",
+  "snimky/karusel-10-top-momenty-lekce-1/7.png"
+ ],
+ "focus": [
+  0.5,
+  0.5
+ ],
+ "snimky_k_vytazeni": [
+  {
+   "slide": 1,
+   "cas": "08:00-09:30",
+   "co_ma_byt_videt": "celkový pohled na Alešův Ableton set (arrangement/session se stopami)"
+  },
+  {
+   "slide": 2,
+   "cas": "43:33-44:55",
+   "co_ma_byt_videt": "reverb v Abletonu, ideálně detail s parametrem Decay"
+  },
+  {
+   "slide": 3,
+   "cas": "09:51-11:26",
+   "co_ma_byt_videt": "Preferences > Audio s Buffer Size / latencí"
+  },
+  {
+   "slide": 4,
+   "cas": "40:42-41:30",
+   "co_ma_byt_videt": "vrstvy stop / zvuků na sobě v Abletonu"
+  },
+  {
+   "slide": 5,
+   "cas": "46:16-47:41",
+   "co_ma_byt_videt": "efekt Echo v Abletonu (filtr, feedback)"
+  },
+  {
+   "slide": 6,
+   "cas": "50:34-51:39",
+   "co_ma_byt_videt": "automatizace / obálka v Abletonu"
+  },
+  {
+   "slide": 7,
+   "cas": "08:00-09:30",
+   "co_ma_byt_videt": "celkový pohled na Alešův Ableton set (arrangement/session se stopami)"
+  }
+ ]
+}

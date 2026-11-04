@@ -1,0 +1,61 @@
+{
+ "paras": [
+  "Stejný fundament?",
+  "Když máš dva nástroje, které mají stejný fundament (hrajou ty stejný tóny), tak v ten moment se začnou víceméně bít.",
+  "Fundament není nic jiného, než sinusovka. To je tón. A ta barva nástroje, to gró tý věci, tak jsou harmonický.",
+  "Když máš moc nástrojů, co mají stejný fundamenty, neboli hrajou ty stejný tóny, tak výsledný obraz může být nečitelný.",
+  "Moc se tam buduje energie a to potom musíš řešit ekvalizací nebo mixingem, čímž si většinou přiděláváš práci.",
+  "Hrej různý tóny v různých rejstřících, v rámci nástrojů hledej odlišné barvy a budeš pak mít plnější spektrum.",
+  "Pokud máš zájem o můj koučink, napiš mi „HUDBA“."
+ ],
+ "photos": [
+  "snimky/karusel-14-stejny-fundament/1.png",
+  "snimky/karusel-14-stejny-fundament/2.png",
+  "snimky/karusel-14-stejny-fundament/3.png",
+  "snimky/karusel-14-stejny-fundament/4.png",
+  "snimky/karusel-14-stejny-fundament/5.png",
+  "snimky/karusel-14-stejny-fundament/6.png",
+  "snimky/karusel-14-stejny-fundament/7.png"
+ ],
+ "focus": [
+  0.5,
+  0.5
+ ],
+ "snimky_k_vytazeni": [
+  {
+   "slide": 1,
+   "cas": "35:51-36:30",
+   "co_ma_byt_videt": "dvě stopy se stejnými notami"
+  },
+  {
+   "slide": 2,
+   "cas": "36:13-36:33",
+   "co_ma_byt_videt": "MIDI noty dvou stop"
+  },
+  {
+   "slide": 3,
+   "cas": "36:21-37:09",
+   "co_ma_byt_videt": "spektrum / EQ Eight s harmonickými"
+  },
+  {
+   "slide": 4,
+   "cas": "37:09-37:26",
+   "co_ma_byt_videt": "EQ / spektrum"
+  },
+  {
+   "slide": 5,
+   "cas": "37:26-37:52",
+   "co_ma_byt_videt": "EQ Eight, low shelf"
+  },
+  {
+   "slide": 6,
+   "cas": "37:40-40:00",
+   "co_ma_byt_videt": "EQ / syntezátor, jiný snímek"
+  },
+  {
+   "slide": 7,
+   "cas": "35:51-37:52",
+   "co_ma_byt_videt": "nejhezčí snímek EQ"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "paras": [
+  "Echo je saturátor.",
+  "Echo je takový delay na steroidech. Mimo jiné simuluje stará pásková echa. Za mě je daleko lepší než delay :D",
+  "Hlavně můžes boostovat filtr - v ten moment se ti tento boost vrací do feedbackové smyčky a zároveň se zkresluje.",
+  "Když najdeš přes filter sweet spot toho správného feedbacku, tak máš krásnou barvu. Často se tento efekt používá v psychedelické hudbě.",
+  "Defaultně je zpoždění každého kanálu nastavené na „Dotted“, coz vždycky dodá dobrej groove, dobrej rytmus.",
+  "Můžeš mí jakýkoliv zdroj, klidně i nerytmický, ale s použitím Echa z něj hned uděláš zvuk rytmický.",
+  "Dej mi follow, pokud skládáš svoji hudbu."
+ ],
+ "photos": [
+  "snimky/karusel-15-echo-je-saturator/1.png",
+  "snimky/karusel-15-echo-je-saturator/2.png",
+  "snimky/karusel-15-echo-je-saturator/3.png",
+  "snimky/karusel-15-echo-je-saturator/4.png",
+  "snimky/karusel-15-echo-je-saturator/5.png",
+  "snimky/karusel-15-echo-je-saturator/6.png",
+  "snimky/karusel-15-echo-je-saturator/7.png"
+ ],
+ "focus": [
+  0.5,
+  0.5
+ ],
+ "snimky_k_vytazeni": [
+  {
+   "slide": 1,
+   "cas": "46:16-46:30",
+   "co_ma_byt_videt": "efekt Echo celý"
+  },
+  {
+   "slide": 2,
+   "cas": "46:16-46:53",
+   "co_ma_byt_videt": "Echo device"
+  },
+  {
+   "slide": 3,
+   "cas": "46:28-46:53",
+   "co_ma_byt_videt": "filtr v Echu"
+  },
+  {
+   "slide": 4,
+   "cas": "46:59-47:13",
+   "co_ma_byt_videt": "Feedback v Echu"
+  },
+  {
+   "slide": 5,
+   "cas": "47:25-47:41",
+   "co_ma_byt_videt": "Echo – časy L/R, Dotted"
+  },
+  {
+   "slide": 6,
+   "cas": "47:29-47:41",
+   "co_ma_byt_videt": "Echo na stopě leadu"
+  },
+  {
+   "slide": 7,
+   "cas": "46:16-47:41",
+   "co_ma_byt_videt": "nejhezčí snímek Echa"
+  }
+ ]
+}

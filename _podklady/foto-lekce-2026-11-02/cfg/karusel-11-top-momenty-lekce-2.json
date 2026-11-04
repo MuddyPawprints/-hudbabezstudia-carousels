@@ -1,0 +1,54 @@
+{
+ "paras": [
+  "4 top momentů z lekce s klientem",
+  "1. Když to máš moc přesný, tak trošku ztrácíš *lidský element*. Ale většinou kick chceš mít přesný. To je pilíř celého tracku.",
+  "2. Nepřesnosti v live nahraném MIDI zvýrazňuje mimojiné obálka, zejména krátký release.",
+  "3. Srovnávenj MIDI přes kvantizaci. Jednak ti to usnadní práci, druhak můžeš použít parametr humanize na „polidštění“",
+  "4. Každý nástroj září v určitý frekvenční oblasti. Nejvíce to vidíš ve filharmonii v jedotlivých nástrojových sekcích.",
+  "Pokud máš zájem o můj koučink, napiš mi „HUDBA“."
+ ],
+ "photos": [
+  "snimky/karusel-11-top-momenty-lekce-2/1.png",
+  "snimky/karusel-11-top-momenty-lekce-2/2.png",
+  "snimky/karusel-11-top-momenty-lekce-2/3.png",
+  "snimky/karusel-11-top-momenty-lekce-2/4.png",
+  "snimky/karusel-11-top-momenty-lekce-2/5.png",
+  "snimky/karusel-11-top-momenty-lekce-2/6.png"
+ ],
+ "focus": [
+  0.5,
+  0.5
+ ],
+ "snimky_k_vytazeni": [
+  {
+   "slide": 1,
+   "cas": "08:00-09:30",
+   "co_ma_byt_videt": "celkový pohled na Alešův Ableton set (arrangement/session se stopami)"
+  },
+  {
+   "slide": 2,
+   "cas": "08:14-09:30",
+   "co_ma_byt_videt": "MIDI klip / kick stopa, noty mimo grid"
+  },
+  {
+   "slide": 3,
+   "cas": "11:30-13:00",
+   "co_ma_byt_videt": "obálka syntezátoru s krátkým release"
+  },
+  {
+   "slide": 4,
+   "cas": "15:26-17:00",
+   "co_ma_byt_videt": "okno Quantize Settings / MIDI noty"
+  },
+  {
+   "slide": 5,
+   "cas": "21:09-22:30",
+   "co_ma_byt_videt": "spektrum / EQ, nebo co je zrovna sdílené k instrumentaci"
+  },
+  {
+   "slide": 6,
+   "cas": "08:00-09:30",
+   "co_ma_byt_videt": "celkový pohled na Alešův Ableton set (arrangement/session se stopami)"
+  }
+ ]
+}
